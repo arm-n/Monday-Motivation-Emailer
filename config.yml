@@ -1,0 +1,18 @@
+
+Use **UTF-8 encoding** to avoid Unicode errors.
+
+---
+
+## 💡 Pro Tip
+
+You can schedule this script to run every Monday using:
+
+- **Windows Task Scheduler**
+- **Linux/macOS cron jobs**
+
+---
+
+## 📬 Output
+
+Every Monday, the receiver (e.g., your Yahoo email) will get an email like:
+
